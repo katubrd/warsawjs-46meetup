@@ -1,0 +1,100 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 267.5">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 12px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 2.79em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <title>transitionCodeEx2</title>
+  <text class="cls-1" transform="translate(0 10)">.fad<tspan class="cls-2" x="18.5" y="0">e</tspan><tspan class="cls-3" x="24.9" y="0">-</tspan><tspan x="28.8" y="0">e</tspan><tspan class="cls-4" x="34.8" y="0">n</tspan><tspan class="cls-5" x="41.4" y="0">t</tspan><tspan x="45.3" y="0">e</tspan><tspan class="cls-6" x="51.3" y="0">r</tspan><tspan x="55.2" y="0">-a</tspan><tspan class="cls-7" x="64.7" y="0">c</tspan><tspan x="70.2" y="0">ti</tspan><tspan class="cls-8" x="77" y="0">v</tspan><tspan x="82.6" y="0">e {</tspan><tspan class="cls-9" x="0" y="14.4">	</tspan><tspan x="36" y="14.4">anim</tspan><tspan class="cls-4" x="61.3" y="14.4">a</tspan><tspan x="67" y="14.4">tion: fade</tspan><tspan class="cls-10" x="114.1" y="14.4">I</tspan><tspan x="117.1" y="14.4">n 1s </tspan><tspan class="cls-11" x="139.8" y="14.4">f</tspan><tspan x="143.1" y="14.4">o</tspan><tspan class="cls-12" x="149.7" y="14.4">r</tspan><tspan class="cls-13" x="153.9" y="14.4">w</tspan><tspan x="162.7" y="14.4">a</tspan><tspan class="cls-8" x="168.5" y="14.4">r</tspan><tspan x="172.3" y="14.4">ds;</tspan><tspan x="0" y="28.8">}</tspan><tspan x="0" y="57.6">.fad</tspan><tspan class="cls-2" x="18.5" y="57.6">e</tspan><tspan x="24.9" y="57.6">-le</tspan><tspan class="cls-14" x="37.4" y="57.6">a</tspan><tspan class="cls-15" x="43.1" y="57.6">v</tspan><tspan class="cls-2" x="48.8" y="57.6">e</tspan><tspan x="55.1" y="57.6">-a</tspan><tspan class="cls-7" x="64.6" y="57.6">c</tspan><tspan x="70.1" y="57.6">ti</tspan><tspan class="cls-8" x="76.9" y="57.6">v</tspan><tspan x="82.5" y="57.6">e {</tspan><tspan class="cls-9" x="0" y="72">	</tspan><tspan x="36" y="72">anim</tspan><tspan class="cls-4" x="61.3" y="72">a</tspan><tspan x="67" y="72">tion: fade</tspan><tspan class="cls-16" x="114.1" y="72">O</tspan><tspan x="122.4" y="72">ut 1s </tspan><tspan class="cls-11" x="149" y="72">f</tspan><tspan x="152.4" y="72">o</tspan><tspan class="cls-17" x="158.9" y="72">r</tspan><tspan class="cls-4" x="163.2" y="72">w</tspan><tspan x="171.9" y="72">a</tspan><tspan class="cls-15" x="177.7" y="72">r</tspan><tspan class="cls-18" x="181.5" y="72">ds;</tspan><tspan x="0" y="86.4">}</tspan><tspan x="0" y="115.2">@keyf</tspan><tspan class="cls-6" x="29.6" y="115.2">r</tspan><tspan x="33.5" y="115.2">ames fade</tspan><tspan class="cls-19" x="84.7" y="115.2">I</tspan><tspan x="87.7" y="115.2">n {</tspan><tspan class="cls-9" x="0" y="129.6">	</tspan><tspan x="36" y="129.6">f</tspan><tspan class="cls-15" x="39.5" y="129.6">r</tspan><tspan x="43.3" y="129.6">om { opaci</tspan><tspan class="cls-20" x="95.8" y="129.6">t</tspan><tspan class="cls-21" x="99.9" y="129.6">y</tspan><tspan x="105.8" y="129.6">: 0; }</tspan><tspan class="cls-9" x="0" y="144">	</tspan><tspan class="cls-5" x="36" y="144">t</tspan><tspan x="39.9" y="144">o { opaci</tspan><tspan class="cls-20" x="82.4" y="144">t</tspan><tspan class="cls-22" x="86.4" y="144">y</tspan><tspan x="92.4" y="144">: 1; }</tspan><tspan x="0" y="158.4">}</tspan><tspan x="0" y="187.2">@keyf</tspan><tspan class="cls-6" x="29.6" y="187.2">r</tspan><tspan x="33.5" y="187.2">ames fade</tspan><tspan class="cls-23" x="84.7" y="187.2">O</tspan><tspan x="93" y="187.2">ut {</tspan><tspan class="cls-9" x="0" y="201.6">	</tspan><tspan x="36" y="201.6">f</tspan><tspan class="cls-15" x="39.5" y="201.6">r</tspan><tspan x="43.3" y="201.6">om {opaci</tspan><tspan class="cls-20" x="93.2" y="201.6">t</tspan><tspan class="cls-21" x="97.3" y="201.6">y</tspan><tspan x="103.3" y="201.6">: 1; }</tspan><tspan class="cls-9" x="0" y="216">	</tspan><tspan class="cls-5" x="36" y="216">t</tspan><tspan x="39.9" y="216">o { opaci</tspan><tspan class="cls-20" x="82.4" y="216">t</tspan><tspan class="cls-22" x="86.4" y="216">y</tspan><tspan x="92.4" y="216">: 0; }</tspan><tspan x="0" y="230.4">}</tspan></text>
+</svg>

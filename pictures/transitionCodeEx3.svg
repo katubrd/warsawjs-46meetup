@@ -1,0 +1,52 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 217.2">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 18px;
+        font-family: Rubik-Regular, Rubik;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: 1.76em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.05em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <title>transitionCodeEx3</title>
+  <text class="cls-1" transform="translate(0 15.3)">&lt;templ<tspan class="cls-2" x="57.1" y="0">a</tspan><tspan x="66.9" y="0">te&gt;</tspan><tspan class="cls-3" x="0" y="21.6">	</tspan><tspan x="36" y="21.6">&lt;t</tspan><tspan class="cls-4" x="52" y="21.6">r</tspan><tspan x="58.7" y="21.6">ansition name=”</tspan><tspan class="cls-5" x="194.4" y="21.6">f</tspan><tspan class="cls-6" x="201.3" y="21.6">ad</tspan><tspan class="cls-7" x="221.9" y="21.6">e</tspan><tspan x="231.4" y="21.6">” mode=</tspan><tspan class="cls-8" x="300.5" y="21.6">”</tspan><tspan class="cls-9" x="307" y="21.6">out-i</tspan><tspan class="cls-10" x="348.4" y="21.6">n</tspan><tspan x="358.7" y="21.6">”&gt;</tspan><tspan class="cls-3" x="0" y="43.2" xml:space="preserve">		</tspan><tspan x="72" y="43.2">...</tspan><tspan class="cls-3" x="0" y="64.8">	</tspan><tspan x="36" y="64.8">&lt;</tspan><tspan class="cls-11" x="44.8" y="64.8">/</tspan><tspan x="53.4" y="64.8">t</tspan><tspan class="cls-4" x="60.6" y="64.8">r</tspan><tspan x="67.2" y="64.8">ansition&gt;</tspan><tspan x="0" y="86.4">&lt;</tspan><tspan class="cls-11" x="8.8" y="86.4">/</tspan><tspan x="17.4" y="86.4">templ</tspan><tspan class="cls-2" x="65.7" y="86.4">a</tspan><tspan x="75.4" y="86.4">te&gt;</tspan></text>
+</svg>

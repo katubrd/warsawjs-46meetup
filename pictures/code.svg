@@ -1,0 +1,32 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 370.5">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 18px;
+        font-family: Rubik-Regular, Rubik;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-3 {
+        letter-spacing: 1.76em;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.04em;
+      }
+    </style>
+  </defs>
+  <title>code</title>
+  <text class="cls-1" transform="translate(0 15.3)">&lt;templ<tspan class="cls-2" x="57.1" y="0">a</tspan><tspan x="66.9" y="0">te&gt;</tspan><tspan class="cls-3" x="0" y="21.6">	</tspan><tspan x="36" y="21.6">...</tspan><tspan x="0" y="43.2">&lt;</tspan><tspan class="cls-4" x="8.8" y="43.2">/</tspan><tspan x="17.4" y="43.2">templ</tspan><tspan class="cls-2" x="65.7" y="43.2">a</tspan><tspan x="75.4" y="43.2">te&gt;</tspan><tspan x="0" y="108">&lt;scri</tspan><tspan class="cls-5" x="39" y="108">p</tspan><tspan x="49.7" y="108">t&gt;</tspan><tspan class="cls-3" x="0" y="129.6">	</tspan><tspan x="36" y="129.6">...</tspan><tspan x="0" y="151.2">&lt;</tspan><tspan class="cls-6" x="8.8" y="151.2">/</tspan><tspan x="16.8" y="151.2">scri</tspan><tspan class="cls-5" x="47" y="151.2">p</tspan><tspan x="57.7" y="151.2">t&gt;</tspan><tspan x="0" y="216">&lt;style&gt;</tspan><tspan class="cls-3" x="0" y="237.6">	</tspan><tspan x="36" y="237.6">...</tspan><tspan x="0" y="259.2">&lt;</tspan><tspan class="cls-6" x="8.8" y="259.2">/</tspan><tspan x="16.8" y="259.2">style&gt;</tspan></text>
+</svg>
